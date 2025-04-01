@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(125, 63, 21);
+    display: grid;
+    grid-template-rows: auto 1fr;
+    height: 100vh;
+    place-items: center;
+}
+img {
+    width: 340px;
+}
+.container {
+    width: 600px;
+    border: 1px solid rgb(77, 117, 117);
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 12px;
+}
+h1 {
+    color: #abf8de;
+}
+p {
+    font-size: 20px;
+    color: #9dead0;
+    font-weight: 500;
+}
