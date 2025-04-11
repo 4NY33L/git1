@@ -1,1 +1,2 @@
 Esto lo hizo freezerito en github
+Esto lo hizo freezerito en local y lo mandó al repo remoto
