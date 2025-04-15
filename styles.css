@@ -23,3 +23,9 @@ p {
     color: #9dead0;
     font-weight: 500;
 }
+.title {
+    background: tomato;
+    padding: 12px;
+    width: 90%;
+    text-align: center;
+}
