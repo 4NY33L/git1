@@ -23,3 +23,10 @@ p {
     color: #9dead0;
     font-weight: 500;
 }
+.footer {
+	background: brown;
+	font-size: 18px;
+	text-align: center;
+	padding: 12px;
+	margin-bottom: 20px
+}
