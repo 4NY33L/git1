@@ -29,3 +29,10 @@ p {
     width: 90%;
     text-align: center;
 }
+.footer {
+	background: brown;
+	font-size: 18px;
+	text-align: center;
+	padding: 12px;
+	margin-bottom: 20px
+}
