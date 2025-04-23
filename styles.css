@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(29, 15, 5);
+    background-color: #0d0d0d;
     display: grid;
     grid-template-rows: auto 1fr;
     height: 100vh;
@@ -24,13 +24,13 @@ p {
     font-weight: 500;
 }
 .title {
-    background: rgb(125, 41, 26);
+    background: #383838;
     padding: 12px;
     width: 90%;
     text-align: center;
 }
 .footer {
-	background: rgb(124, 30, 30);
+	background: #383838;
 	font-size: 18px;
 	text-align: center;
 	padding: 12px;
